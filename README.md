@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Kesya Amanda</h1>
-<h3>Third Year CS Student | OSD Staff | Laboratory Assistant @Binus University</h3>
+<h3>CS Student | OSD Staff | Laboratory Assistant @Binus University</h3>
 
 - 👨‍💻 All of my projects are available at <a href="https://kesyawijaya.id/">here</a>
 
